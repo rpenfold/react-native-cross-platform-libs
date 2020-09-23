@@ -8,5 +8,6 @@ I'm an avid supporter of true cross-platform development with significant experi
 | [react-native-device-info](https://github.com/react-native-community/react-native-device-info) | ✔️ | ✔️ | ✔️ | ✔️ |
 | [react-native-share](https://github.com/react-native-community/react-native-share) | ✔️ | ✔️ | ✔️ | |
 | [react-native-netinfo](https://github.com/react-native-community/react-native-netinfo) | ✔️ | ✔️ | ✔️ | |
+| [react-native-sound](https://github.com/zmxv/react-native-sound) | ✔️ | ✔️ | ✔️ | |
 
 I'm currently heavily focused on other projects right now, but I'd love to start contributing to bring many other projects to Windows and Web.
